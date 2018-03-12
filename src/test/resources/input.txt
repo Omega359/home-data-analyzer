@@ -1,0 +1,55 @@
+"John Doe1" "Canada/Ontario/Toronto" 1.0
+"John Doe2" "Canada/Ontario/Toronto" 1.5
+"John Doe3" "Canada/Ontario/Toronto" 2.0
+"John Doe4" "Canada/Ontario/Toronto" 2.5
+"John Doe5" "Canada/Ontario/Toronto" 3.0
+"John Doe6" "Canada/Ontario/Toronto" 3.5
+"John Doe7" "Canada/Ontario/Toronto" 4.0
+"John Doe8" "Canada/Ontario/Toronto" 4.5
+"John Doe9" "Canada/Ontario/Toronto" 5.0
+"John Doe10" "Canada/Ontario/Toronto" 5.5
+"John Doe11" "Canada/Ontario/Toronto" 6.0
+"John Doe12" "Canada/Ontario/Toronto" 6.5
+"John Doe13" "Canada/Ontario/Toronto" 7.0
+"John Doe14" "Canada/Ontario/Toronto" 7.5
+"John Doe15" "Canada/Ontario/Toronto" 8.0
+"John Doe16" "Canada/Ontario/Toronto" 8.5
+"John Doe17" "Canada/Ontario/Toronto" 9.0
+"John Doe18" "Canada/Ontario/Toronto" 9.5
+"John Doe19" "Canada/Ontario/Toronto" 10.0
+"John Doe20" "Canada/Ontario/Toronto" 10.5
+"John Doe2" "Canada/Ontario/Ottawa" 11.0
+"John Doe22" "Canada/Ontario/Ottawa" 11.5
+"John Doe23" "Canada/Ontario/Ottawa" 12.0
+"John Doe24" "Canada/Ontario/Ottawa" 12.5
+"John Doe25" "Canada/Ontario/Ottawa" 13.0
+"John Doe26" "Canada/Ontario/Ottawa" 13.5
+"John Doe27" "Canada/Ontario/Ottawa" 14.0
+"John Doe28" "Canada/Ontario/Ottawa" 14.5
+"John Doe29" "Canada/Ontario/Ottawa" 15.0
+"John Doe30" "Canada/Ontario/Ottawa" 15.5
+"John Doe31" "Canada/Ontario/Ottawa" 16.0
+"John Doe32" "Canada/Ontario/Ottawa" 16.5
+"John Doe33" "Canada/Ontario/Ottawa" 17.0
+"John Doe34" "Canada/Ontario/Ottawa" 17.5
+"John Doe35" "Canada/Ontario/Ottawa" 18.0
+"John Doe36" "Canada/Ontario/Ottawa" 18.5
+"John Doe37" "Canada/Ontario/Ottawa" 19.0
+"John Doe38" "Canada/Ontario/Ottawa" 19.5
+"John Doe39" "Canada/Ontario/Ottawa" 20.0
+"John Doe40" "Canada/Ontario/Ottawa" 20.5
+"John Doe2" "UK/England/London" 5.555
+
+"John Doe2" "Canada"
+"John Doe2" "UK"
+"John Doe14" "Canada"
+"John Doe24" "Canada"
+"John Doe34" "Canada"
+"John Doe2" "Canada/Ontario"
+"John Doe14" "Canada/Ontario"
+"John Doe24" "Canada/Ontario"
+"John Doe34" "Canada/Ontario"
+"John Doe2" "Canada/Ontario/Toronto"
+"John Doe14" "Canada/Ontario/Toronto"
+"John Doe24" "Canada/Ontario/Ottawa"
+"John Doe34" "Canada/Ontario/Ottawa"
